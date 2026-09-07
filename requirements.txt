@@ -1,0 +1,8 @@
+Plaintext
+streamlit>=1.30.0
+folium>=0.15.0
+streamlit-folium>=0.17.0
+pdfplumber>=0.10.0
+geopy>=2.4.0
+pandas>=2.0.0
+openpyxl>=3.1.0
